@@ -1,0 +1,3 @@
+Default	b22ca2ab834941b5ad3589c8d1d1a9d1
+dev	미국 남부	957f2c93-18ba-4afd-960b-5548f975aca4
+ptechkr0	시드니	a31033c5-b1a7-4068-b2a3-69e9d5ea51de
